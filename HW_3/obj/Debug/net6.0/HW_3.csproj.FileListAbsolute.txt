@@ -1,0 +1,30 @@
+E:\загрузки\uTorrent\ITVDN\A-Level\HW\HW_3\bin\Debug\net6.0\HW_3.exe
+E:\загрузки\uTorrent\ITVDN\A-Level\HW\HW_3\bin\Debug\net6.0\HW_3.deps.json
+E:\загрузки\uTorrent\ITVDN\A-Level\HW\HW_3\bin\Debug\net6.0\HW_3.runtimeconfig.json
+E:\загрузки\uTorrent\ITVDN\A-Level\HW\HW_3\bin\Debug\net6.0\HW_3.dll
+E:\загрузки\uTorrent\ITVDN\A-Level\HW\HW_3\bin\Debug\net6.0\HW_3.pdb
+E:\загрузки\uTorrent\ITVDN\A-Level\HW\HW_3\obj\Debug\net6.0\HW_3.csproj.AssemblyReference.cache
+E:\загрузки\uTorrent\ITVDN\A-Level\HW\HW_3\obj\Debug\net6.0\HW_3.GeneratedMSBuildEditorConfig.editorconfig
+E:\загрузки\uTorrent\ITVDN\A-Level\HW\HW_3\obj\Debug\net6.0\HW_3.AssemblyInfoInputs.cache
+E:\загрузки\uTorrent\ITVDN\A-Level\HW\HW_3\obj\Debug\net6.0\HW_3.AssemblyInfo.cs
+E:\загрузки\uTorrent\ITVDN\A-Level\HW\HW_3\obj\Debug\net6.0\HW_3.csproj.CoreCompileInputs.cache
+E:\загрузки\uTorrent\ITVDN\A-Level\HW\HW_3\obj\Debug\net6.0\HW_3.dll
+E:\загрузки\uTorrent\ITVDN\A-Level\HW\HW_3\obj\Debug\net6.0\refint\HW_3.dll
+E:\загрузки\uTorrent\ITVDN\A-Level\HW\HW_3\obj\Debug\net6.0\HW_3.pdb
+E:\загрузки\uTorrent\ITVDN\A-Level\HW\HW_3\obj\Debug\net6.0\HW_3.genruntimeconfig.cache
+E:\загрузки\uTorrent\ITVDN\A-Level\HW\HW_3\obj\Debug\net6.0\ref\HW_3.dll
+C:\Users\Timmy\OneDrive\Рабочий стол\A-Level\HW\HW_3\bin\Debug\net6.0\HW_3.exe
+C:\Users\Timmy\OneDrive\Рабочий стол\A-Level\HW\HW_3\bin\Debug\net6.0\HW_3.deps.json
+C:\Users\Timmy\OneDrive\Рабочий стол\A-Level\HW\HW_3\bin\Debug\net6.0\HW_3.runtimeconfig.json
+C:\Users\Timmy\OneDrive\Рабочий стол\A-Level\HW\HW_3\bin\Debug\net6.0\HW_3.dll
+C:\Users\Timmy\OneDrive\Рабочий стол\A-Level\HW\HW_3\bin\Debug\net6.0\HW_3.pdb
+C:\Users\Timmy\OneDrive\Рабочий стол\A-Level\HW\HW_3\obj\Debug\net6.0\HW_3.csproj.AssemblyReference.cache
+C:\Users\Timmy\OneDrive\Рабочий стол\A-Level\HW\HW_3\obj\Debug\net6.0\HW_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timmy\OneDrive\Рабочий стол\A-Level\HW\HW_3\obj\Debug\net6.0\HW_3.AssemblyInfoInputs.cache
+C:\Users\Timmy\OneDrive\Рабочий стол\A-Level\HW\HW_3\obj\Debug\net6.0\HW_3.AssemblyInfo.cs
+C:\Users\Timmy\OneDrive\Рабочий стол\A-Level\HW\HW_3\obj\Debug\net6.0\HW_3.csproj.CoreCompileInputs.cache
+C:\Users\Timmy\OneDrive\Рабочий стол\A-Level\HW\HW_3\obj\Debug\net6.0\HW_3.dll
+C:\Users\Timmy\OneDrive\Рабочий стол\A-Level\HW\HW_3\obj\Debug\net6.0\refint\HW_3.dll
+C:\Users\Timmy\OneDrive\Рабочий стол\A-Level\HW\HW_3\obj\Debug\net6.0\HW_3.pdb
+C:\Users\Timmy\OneDrive\Рабочий стол\A-Level\HW\HW_3\obj\Debug\net6.0\HW_3.genruntimeconfig.cache
+C:\Users\Timmy\OneDrive\Рабочий стол\A-Level\HW\HW_3\obj\Debug\net6.0\ref\HW_3.dll
