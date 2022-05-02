@@ -16,42 +16,20 @@ namespace HW_3
             string[] variableArray = variable.Split(new char[] { ' ' });
             for (int i = 0; i < variableArray.Length; i++)
             {
-                if (i % 2 == 0)
+                char[] chararr = variableArray[i].ToCharArray();
+                for (int j = 0; j < chararr.Length; j++)
                 {
-                    char[] chararr = variableArray[i].ToCharArray();
-                    for (int j = 0; j < chararr.Length; j++)
+                    if (j == 0)
                     {
-                        if (j == 0)
-                        {
-                            string charUp = chararr[j].ToString();
-                            string strUp = charUp.ToUpper();
-                            Console.Write(strUp);
-                        }
-                        else
-                        {
-                            string charLow = chararr[j].ToString();
-                            string strLow = charLow.ToLower();
-                            Console.Write(strLow);
-                        }
+                        string charUp = chararr[j].ToString();
+                        string strUp = charUp.ToUpper();
+                        Console.Write(strUp);
                     }
-                }
-                else
-                {
-                    char[] chararr = variableArray[i].ToCharArray();
-                    for (int j = 0; j < chararr.Length; j++)
+                    else
                     {
-                        if (j == 0)
-                        {
-                            string charUp = chararr[j].ToString();
-                            string strUp = charUp.ToUpper();
-                            Console.Write(strUp);
-                        }
-                        else
-                        {
-                            string charLow = chararr[j].ToString();
-                            string strLow = charLow.ToLower();
-                            Console.Write(strLow);
-                        }
+                        string charLow = chararr[j].ToString();
+                        string strLow = charLow.ToLower();
+                        Console.Write(strLow);
                     }
                 }
 
